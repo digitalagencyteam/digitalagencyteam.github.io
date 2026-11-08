@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://digitalagencyteam.github.io/sitemap.xml
