@@ -6,4 +6,4 @@
 :HL["/_next/static/chunks/41n3ppowxdm_g.css","style"]
 2:[["children",{"s":"__PAGE__","h":128}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":["api"]},"h":32,"c":"$Q2"}]]
-0:{"b":"3VQLIS_HUeHS0N4g6BqpS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"O9cBNZwZcP6gW8FI0SnDr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
